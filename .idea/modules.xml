@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-appender/file-appender.iml" filepath="$PROJECT_DIR$/file-appender/file-appender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-demo.iml" filepath="$PROJECT_DIR$/log-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-appender/thrift-appender.iml" filepath="$PROJECT_DIR$/thrift-appender/thrift-appender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-server/thrift-server.iml" filepath="$PROJECT_DIR$/thrift-server/thrift-server.iml" />
+    </modules>
+  </component>
+</project>
